@@ -47,11 +47,6 @@ export default function Navbar() {
     Orders
   </NavLink>
 )}
-<<<<<<< HEAD
-
-
-=======
->>>>>>> b08323b (Added contact page and navbar update)
           {/* AUTH */}
           {!user ? (
             <>
@@ -76,12 +71,9 @@ export default function Navbar() {
     Hi, {user.name}
   </span>
 )}
-<<<<<<< HEAD
-=======
 <NavLink to="/contact" className={linkClass}>
   Contact Us
 </NavLink>
->>>>>>> b08323b (Added contact page and navbar update)
               <button
                 onClick={handleLogout}
                 className="px-4 py-2 rounded-lg bg-gray-900 text-white hover:bg-black transition"

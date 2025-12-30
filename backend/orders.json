@@ -20,8 +20,6 @@
     "phone": "8808980580",
     "total": 2498,
     "createdAt": "2025-12-27T20:05:11.766Z"
-<<<<<<< HEAD
-=======
   },
   {
     "id": 1767094450895,
@@ -44,6 +42,5 @@
     "phone": "1234567890",
     "total": 4798,
     "createdAt": "2025-12-30T11:34:10.895Z"
->>>>>>> b08323b (Added contact page and navbar update)
   }
 ]

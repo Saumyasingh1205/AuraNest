@@ -135,8 +135,6 @@ app.post("/api/orders", (req, res) => {
 
   res.status(201).json(newOrder); // ✅ IMPORTANT
 });
-<<<<<<< HEAD
-=======
 // ----------------------
 // CONTACT US
 // ----------------------
@@ -174,8 +172,6 @@ app.post("/api/contact", (req, res) => {
 
   res.status(201).json({ message: "Message sent successfully" });
 });
->>>>>>> b08323b (Added contact page and navbar update)
-
 // GET ORDER HISTORY (USER)
 app.get("/api/orders/:userId", (req, res) => {
   const userId = Number(req.params.userId);
