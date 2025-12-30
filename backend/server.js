@@ -29,7 +29,7 @@ app.get("/api/products", (req, res) => {
 // ----------------------
 // USERS (AUTH)
 // ----------------------
-const usersPath = path.join(__dirname, "users.json");
+const usersPath = path.join(__dirname,"data", "users.json");
 
 const readUsers = () => {
   if (!fs.existsSync(usersPath)) return [];
