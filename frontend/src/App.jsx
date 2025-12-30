@@ -8,6 +8,10 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Checkout from "./pages/Checkout";
 import Orders from "./pages/Orders";
+<<<<<<< HEAD
+=======
+import Contact from "./pages/Contact";
+>>>>>>> b08323b (Added contact page and navbar update)
 export default function App() {
   return (
     <>
@@ -20,6 +24,10 @@ export default function App() {
           <Route path="/products" element={<Products />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/checkout" element={<Checkout />} />
+<<<<<<< HEAD
+=======
+          <Route path="/contact" element={<Contact />} />
+>>>>>>> b08323b (Added contact page and navbar update)
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
           <Route path="/orders" element={<Orders />}/>
