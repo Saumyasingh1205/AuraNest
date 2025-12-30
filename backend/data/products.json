@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Chandelier",
+    "price": 1499,
+    "image": "http://localhost:5000/uploads/chandelier.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Craft",
+    "price": 999,
+    "image": "http://localhost:5000/uploads/craft.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Decor set",
+    "price": 1799,
+    "image": "http://localhost:5000/uploads/decor_set.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Iron lantern",
+    "price": 599,
+    "image": "http://localhost:5000/uploads/iron-lantern.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lamp",
+    "price": 899,
+    "image": "http://localhost:5000/uploads/lamp.png"
+  },
+  {
+    "id": 6,
+    "name": "Mirror Set",
+    "price": 2999,
+    "image": "http://localhost:5000/uploads/mirror-set.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Wall art",
+    "price": 1999,
+    "image": "http://localhost:5000/uploads/wall_art.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Wall Showpiece",
+    "price": 949,
+    "image": "http://localhost:5000/uploads/wall_showpiece.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wall Art LED",
+    "price": 1599,
+    "image": "http://localhost:5000/uploads/wallart_led.jpeg"
+  }
+]
