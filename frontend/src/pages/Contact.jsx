@@ -40,7 +40,7 @@ export default function Contact() {
           className="bg-white rounded-2xl shadow-md p-10"
         >
           <h1 className="text-3xl font-semibold text-gray-900 mb-6">
-            Contact Us
+            Give us a feedback!
           </h1>
 
           <p className="text-gray-600 mb-8">
